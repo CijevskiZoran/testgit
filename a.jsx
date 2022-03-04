@@ -1,1 +1,1 @@
-React;
+import React from React;
