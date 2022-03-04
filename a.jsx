@@ -1,2 +1,2 @@
 import React from React;
-const () => { }
+const () => { };
